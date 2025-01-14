@@ -1,0 +1,11 @@
+C:\Users\Tim\source\repos\CompanyCoreLib\bin\Debug\net8.0\CompanyCoreLib.deps.json
+C:\Users\Tim\source\repos\CompanyCoreLib\bin\Debug\net8.0\CompanyCoreLib.dll
+C:\Users\Tim\source\repos\CompanyCoreLib\bin\Debug\net8.0\CompanyCoreLib.pdb
+C:\Users\Tim\source\repos\CompanyCoreLib\obj\Debug\net8.0\CompanyCoreLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tim\source\repos\CompanyCoreLib\obj\Debug\net8.0\CompanyCoreLib.AssemblyInfoInputs.cache
+C:\Users\Tim\source\repos\CompanyCoreLib\obj\Debug\net8.0\CompanyCoreLib.AssemblyInfo.cs
+C:\Users\Tim\source\repos\CompanyCoreLib\obj\Debug\net8.0\CompanyCoreLib.csproj.CoreCompileInputs.cache
+C:\Users\Tim\source\repos\CompanyCoreLib\obj\Debug\net8.0\CompanyCoreLib.dll
+C:\Users\Tim\source\repos\CompanyCoreLib\obj\Debug\net8.0\refint\CompanyCoreLib.dll
+C:\Users\Tim\source\repos\CompanyCoreLib\obj\Debug\net8.0\CompanyCoreLib.pdb
+C:\Users\Tim\source\repos\CompanyCoreLib\obj\Debug\net8.0\ref\CompanyCoreLib.dll
